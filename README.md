@@ -18,9 +18,9 @@ My core expertise spans across designing resilient multi-tenant SaaS platforms, 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Artificial Intelligence & Data Science** | `Machine Learning`, `Predictive Data Forecasting`, `Generative AI Models`, `Python`, `Automated Analytics` |
-| **Backend Architecture & Databases** | `NestJS`, `Node.js`, `TypeScript`, `C# (.NET)`, `PostgreSQL`, `SQL Server (MSSQL)`[cite: 1, 2] |
-| **Frontend Engineering** | `React`, `Next.js`, `Vite`, `Vue.js`, `Tailwind CSS`[cite: 1, 2] |
-| **System Architecture & Design** | `Microservices`, `Domain-Driven Design (DDD)`, `Clean Architecture`, `Multi-tenant SaaS`[cite: 1, 2] |
+| **Backend Architecture & Databases** | `NestJS`, `Node.js`, `TypeScript`, `C# (.NET)`, `PostgreSQL`, `SQL Server (MSSQL)` |
+| **Frontend Engineering** | `React`, `Next.js`, `Vite`, `Vue.js`, `Tailwind CSS` |
+| **System Architecture & Design** | `Microservices`, `Domain-Driven Design (DDD)`, `Clean Architecture`, `Multi-tenant SaaS` |
 | **DevOps, Infrastructure & Automation** | `Docker`, `PM2`, `Windows SEA (.exe Packaging)`, `Nginx`, `n8n (Workflow Automation)`, `Git` |
 
 ---
@@ -37,6 +37,7 @@ As an AI Consultant and architect, I help organizations transform raw operationa
 
 * **Nora Platform (Microservices & On-Premise SaaS Model):** Designed and developed a multi-tenant SaaS ecosystem comprising 7 backend microservices and 5 frontend dashboards. Features robust Logo ERP (Tiger3, etc.) synchronization, centralized licensing control, tenant management, and a real-time audit logging engine driven by SQL Server CDC, Socket.io, and automated report generation.
 * **VisionCo Depth App (Health Tech):** Engineered a high-performance RESTful API backend using NestJS and PostgreSQL for a specialized health-tech platform, enabling interactive tablet-based vision rehabilitation exercises with low-latency data processing.
+* **Ekofin (Financial & Stock Portfolio Management Application):** Developed end-to-end frontend and backend components for a financial application focused on stock portfolio management, delivering interactive dashboards and real-time financial data visualization solutions.
 * **Commercial Web Ventures (`enginbag.com` & `dalindanfresh.com`):** Conceived, architected, and successfully commercialized end-to-end web applications from the ground up.
 
 ---
