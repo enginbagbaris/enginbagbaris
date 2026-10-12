@@ -7,9 +7,9 @@
 ---
 
 ### 🚀 Professional Summary
-I am **Barış Enginbağ**, a Full Stack Software Engineer, Systems Architect, and AI Consultant holding a degree in Computer Engineering from Süleyman Demirel University[cite: 1, 2, 3]. I specialize in building high-performance enterprise systems, scalable microservice architectures, and data-driven intelligent solutions that bridge the gap between robust backend engineering and advanced artificial intelligence.
+I am **Barış Enginbağ**, a Full Stack Software Engineer, Systems Architect, and AI Consultant holding a degree in Computer Engineering from Süleyman Demirel University. I specialize in building high-performance enterprise systems, scalable microservice architectures, and data-driven intelligent solutions that bridge the gap between robust backend engineering and advanced artificial intelligence.
 
-My core expertise spans across designing resilient multi-tenant SaaS platforms, architecting seamless ERP integrations, and developing predictive models that empower businesses to make data-driven decisions. By strictly adhering to **Clean Architecture**, **Domain-Driven Design (DDD)**, and modern software engineering patterns, I engineer maintainable, secure, and future-proof systems[cite: 1, 2, 3].
+My core expertise spans across designing resilient multi-tenant SaaS platforms, architecting seamless ERP integrations, and developing predictive models that empower businesses to make data-driven decisions. By strictly adhering to **Clean Architecture**, **Domain-Driven Design (DDD)**, and modern software engineering patterns, I engineer maintainable, secure, and future-proof systems.
 
 ---
 
@@ -17,11 +17,11 @@ My core expertise spans across designing resilient multi-tenant SaaS platforms, 
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Artificial Intelligence & Data Science** | `Machine Learning`, `Predictive Data Forecasting`, `Generative AI Models`, `Python`, `Automated Analytics`[cite: 1, 2] |
+| **Artificial Intelligence & Data Science** | `Machine Learning`, `Predictive Data Forecasting`, `Generative AI Models`, `Python`, `Automated Analytics` |
 | **Backend Architecture & Databases** | `NestJS`, `Node.js`, `TypeScript`, `C# (.NET)`, `PostgreSQL`, `SQL Server (MSSQL)`[cite: 1, 2] |
 | **Frontend Engineering** | `React`, `Next.js`, `Vite`, `Vue.js`, `Tailwind CSS`[cite: 1, 2] |
 | **System Architecture & Design** | `Microservices`, `Domain-Driven Design (DDD)`, `Clean Architecture`, `Multi-tenant SaaS`[cite: 1, 2] |
-| **DevOps, Infrastructure & Automation** | `Docker`, `PM2`, `Windows SEA (.exe Packaging)`, `Nginx`, `n8n (Workflow Automation)`, `Git`[cite: 1, 2] |
+| **DevOps, Infrastructure & Automation** | `Docker`, `PM2`, `Windows SEA (.exe Packaging)`, `Nginx`, `n8n (Workflow Automation)`, `Git` |
 
 ---
 
@@ -35,9 +35,9 @@ As an AI Consultant and architect, I help organizations transform raw operationa
 
 ### 🏢 Featured Enterprise Projects & Architectures
 
-* **Nora Platform (Microservices & On-Premise SaaS Model):** Designed and developed a multi-tenant SaaS ecosystem comprising 7 backend microservices and 5 frontend dashboards. Features robust Logo ERP (Tiger3, etc.) synchronization, centralized licensing control, tenant management, and a real-time audit logging engine driven by SQL Server CDC, Socket.io, and automated report generation[cite: 1, 2, 3].
-* **VisionCo Depth App (Health Tech):** Engineered a high-performance RESTful API backend using NestJS and PostgreSQL for a specialized health-tech platform, enabling interactive tablet-based vision rehabilitation exercises with low-latency data processing[cite: 1, 2, 3].
-* **Commercial Web Ventures (`enginbag.com` & `dalindanfresh.com`):** Conceived, architected, and successfully commercialized end-to-end web applications from the ground up[cite: 1, 2, 3].
+* **Nora Platform (Microservices & On-Premise SaaS Model):** Designed and developed a multi-tenant SaaS ecosystem comprising 7 backend microservices and 5 frontend dashboards. Features robust Logo ERP (Tiger3, etc.) synchronization, centralized licensing control, tenant management, and a real-time audit logging engine driven by SQL Server CDC, Socket.io, and automated report generation.
+* **VisionCo Depth App (Health Tech):** Engineered a high-performance RESTful API backend using NestJS and PostgreSQL for a specialized health-tech platform, enabling interactive tablet-based vision rehabilitation exercises with low-latency data processing.
+* **Commercial Web Ventures (`enginbag.com` & `dalindanfresh.com`):** Conceived, architected, and successfully commercialized end-to-end web applications from the ground up.
 
 ---
 
