@@ -42,6 +42,6 @@ As an AI Consultant and architect, I help organizations transform raw operationa
 ---
 
 ### 📫 Connect & Collaborate
-* **Portfolio & Website:** [barisenginbag.com](https://www.barisenginbag.com/)[cite: 1]
-* **Professional Email:** enginbagbariss@gmail.com[cite: 1]
-* **LinkedIn Profile:** [Barış Enginbağ](https://www.linkedin.com/in/bar%C4%B1%C5%9F-enginba%C4%9F-bb37521a1)[cite: 1]
+* **Portfolio & Website:** [barisenginbag.com](https://www.barisenginbag.com/)
+* **Professional Email:** enginbagbariss@gmail.com
+* **LinkedIn Profile:** [Barış Enginbağ](https://www.linkedin.com/in/bar%C4%B1%C5%9F-enginba%C4%9F-bb37521a1)
